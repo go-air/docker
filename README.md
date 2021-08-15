@@ -1,7 +1,9 @@
 # docker 
 
 This repository contains docker sources (Dockerfiles and compose
-yaml) for go-air related projects
+yaml) for go-air related projects.  The Docker resources are
+interoperable: you can build any subset into a single image 
+coherently without modification.
 
 
 ## tools
